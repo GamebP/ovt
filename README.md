@@ -1,2 +1,1 @@
-# ovt
-Ogres Valsts Tehnikums (OVT)
+# Ogres Valsts Tehnikums (OVT.lv)
