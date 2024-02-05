@@ -1,0 +1,1 @@
+Darbs stundā uz atzīmi
