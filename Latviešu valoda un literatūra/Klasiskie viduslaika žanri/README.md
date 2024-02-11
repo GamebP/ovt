@@ -1,1 +1,0 @@
-# Klasiskie viduslaika žanri
