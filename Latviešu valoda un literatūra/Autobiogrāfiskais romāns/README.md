@@ -1,1 +1,0 @@
-# Autobiogrāfiskais romāns
