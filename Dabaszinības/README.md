@@ -15,9 +15,4 @@ Prezentācijas uz katru tematu un apakštēmām:
 Paredzēts pārbaudes darbs par **Radioaktivitāti**  
   
 Prezentācija:  
-[1. Radioaktivitāte. Atoma un vielas uzbūve](https://github.com/GamebP/ovt/blob/main/Dabaszin%C4%ABbas/05.02.2024/Radioaktivit%C4%81te.pptx)  
-  
-Ko es domāju, kas būs tajā pārbaudes darbā:  
-(Ir iekļauts no [uzdevumiem lv](https://www.uzdevumi.lv/), bet neko nevaru 100% prezicēt, kas tur būs.)  
-[1. Radioaktivitāte. Atoma un vielas uzbūve (word dokuments)](https://github.com/GamebP/ovt/blob/main/Dabaszin%C4%ABbas/23.02.2024/Radioaktivit%C4%81te.docx)  
-[2. Radioaktivitāte. Atoma un vielas uzbūve (pdf dokuments)](https://github.com/GamebP/ovt/blob/main/Dabaszin%C4%ABbas/23.02.2024/Radioaktivit%C4%81te.pdf)  
+[1. Radioaktivitāte. Atoma un vielas uzbūve](https://github.com/GamebP/ovt/blob/main/Dabaszin%C4%ABbas/05.02.2024/Radioaktivit%C4%81te.pptx) 
