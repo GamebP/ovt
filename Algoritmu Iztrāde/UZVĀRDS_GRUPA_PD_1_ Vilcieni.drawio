@@ -1,0 +1,94 @@
+<mxfile host="Electron" modified="2023-12-15T10:32:35.593Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.2 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="CAte7DqNQE-DcK1w6OoX" version="22.0.2" type="device">
+  <diagram name="Page-1" id="B4SzQp_Rrk15iFaU6dPB">
+    <mxGraphModel dx="385" dy="815" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zRN41IXciI0hQKYXsGDB-2" value="t - 3 stundu laiks&lt;br&gt;c - Ievadītais attālums (km)&lt;br&gt;a - ceļa attālums&lt;br&gt;v - km/h (ar kvadrātsakni)" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;labelPosition=center;align=center;" vertex="1" parent="1">
+          <mxGeometry x="324" y="80" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="zRN41IXciI0hQKYXsGDB-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zRN41IXciI0hQKYXsGDB-4" target="zRN41IXciI0hQKYXsGDB-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zRN41IXciI0hQKYXsGDB-4" value="Sākums" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="364" y="220" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zRN41IXciI0hQKYXsGDB-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zRN41IXciI0hQKYXsGDB-2" target="zRN41IXciI0hQKYXsGDB-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zRN41IXciI0hQKYXsGDB-7" value="a" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;" vertex="1" parent="1">
+          <mxGeometry x="364" y="340" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zRN41IXciI0hQKYXsGDB-17" value="Jā" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zRN41IXciI0hQKYXsGDB-10" target="zRN41IXciI0hQKYXsGDB-15">
+          <mxGeometry x="-1" y="16" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zRN41IXciI0hQKYXsGDB-10" value="&lt;b&gt;&lt;i&gt;c&lt;/i&gt;&lt;/b&gt; ir vesels&lt;br&gt;skaitlis" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="364" y="460" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="zRN41IXciI0hQKYXsGDB-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zRN41IXciI0hQKYXsGDB-7" target="zRN41IXciI0hQKYXsGDB-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zRN41IXciI0hQKYXsGDB-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="zRN41IXciI0hQKYXsGDB-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="820" as="targetPoint" />
+            <mxPoint x="564" y="685" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="554" y="820" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zRN41IXciI0hQKYXsGDB-12" value="&quot;Nav ievadīts vesels skaitlis!&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="504" y="625" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zRN41IXciI0hQKYXsGDB-13" value="Nē" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zRN41IXciI0hQKYXsGDB-10" target="zRN41IXciI0hQKYXsGDB-12">
+          <mxGeometry x="-0.9189" y="10" relative="1" as="geometry">
+            <mxPoint x="560" y="550" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="554" y="510" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zRN41IXciI0hQKYXsGDB-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="zRN41IXciI0hQKYXsGDB-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zRN41IXciI0hQKYXsGDB-15" value="c = kvadrātsakne (a^2/2)&lt;br&gt;v = a/t (km/h)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="364" y="610" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zRN41IXciI0hQKYXsGDB-19" value="c, v" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="364" y="740" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zRN41IXciI0hQKYXsGDB-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zRN41IXciI0hQKYXsGDB-15" target="zRN41IXciI0hQKYXsGDB-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zRN41IXciI0hQKYXsGDB-26" value="Jā" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zRN41IXciI0hQKYXsGDB-22">
+          <mxGeometry x="-0.9883" y="10" relative="1" as="geometry">
+            <mxPoint x="400" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="341" y="900" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zRN41IXciI0hQKYXsGDB-22" value="Atkārtot?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="364" y="850" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="zRN41IXciI0hQKYXsGDB-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zRN41IXciI0hQKYXsGDB-19" target="zRN41IXciI0hQKYXsGDB-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zRN41IXciI0hQKYXsGDB-24" value="Beigas" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="364" y="1010" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zRN41IXciI0hQKYXsGDB-25" value="Nē" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zRN41IXciI0hQKYXsGDB-22" target="zRN41IXciI0hQKYXsGDB-24">
+          <mxGeometry x="-1" y="16" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

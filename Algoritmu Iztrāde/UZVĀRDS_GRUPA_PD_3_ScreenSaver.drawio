@@ -1,0 +1,66 @@
+<mxfile host="Electron" modified="2024-03-12T10:12:00.671Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.2 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="_W3jmT1vbCC1Y0dcs7PG" version="22.0.2" type="device">
+  <diagram name="Page-1" id="Lf2SbjBJntUwwbyAuCN5">
+    <mxGraphModel dx="1418" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7_PjgihNFdTeZHGyB-dB-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7_PjgihNFdTeZHGyB-dB-9" target="7_PjgihNFdTeZHGyB-dB-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7_PjgihNFdTeZHGyB-dB-9" value="Sākums" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="364" y="50" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7_PjgihNFdTeZHGyB-dB-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7_PjgihNFdTeZHGyB-dB-11" target="7_PjgihNFdTeZHGyB-dB-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7_PjgihNFdTeZHGyB-dB-11" value="Nosaka WindMaxX un WindMoxY koordinātes" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="356" y="180" width="116" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7_PjgihNFdTeZHGyB-dB-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7_PjgihNFdTeZHGyB-dB-14" target="7_PjgihNFdTeZHGyB-dB-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7_PjgihNFdTeZHGyB-dB-14" value="Nejauša teksta krāsa maiņa" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="356" y="310" width="116" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7_PjgihNFdTeZHGyB-dB-15" value="Kursora pazušana" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="356" y="440" width="116" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7_PjgihNFdTeZHGyB-dB-16" value="Nejaušs izvēlēta rakstzīme" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="351" y="560" width="126" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7_PjgihNFdTeZHGyB-dB-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7_PjgihNFdTeZHGyB-dB-15" target="7_PjgihNFdTeZHGyB-dB-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7_PjgihNFdTeZHGyB-dB-18" value="0,3 sekundes" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="364" y="680" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7_PjgihNFdTeZHGyB-dB-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7_PjgihNFdTeZHGyB-dB-16" target="7_PjgihNFdTeZHGyB-dB-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7_PjgihNFdTeZHGyB-dB-20" value="Nē" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7_PjgihNFdTeZHGyB-dB-22">
+          <mxGeometry x="-0.9922" y="-20" relative="1" as="geometry">
+            <mxPoint x="420" y="130" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="470" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7_PjgihNFdTeZHGyB-dB-22" value="Nospiests &amp;lt;esc&amp;gt; (true), ja cits taustiņš (false)" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="351" y="790" width="126" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="7_PjgihNFdTeZHGyB-dB-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7_PjgihNFdTeZHGyB-dB-18" target="7_PjgihNFdTeZHGyB-dB-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7_PjgihNFdTeZHGyB-dB-24" value="Beigas" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="364" y="980" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7_PjgihNFdTeZHGyB-dB-25" value="Jā" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7_PjgihNFdTeZHGyB-dB-22" target="7_PjgihNFdTeZHGyB-dB-24">
+          <mxGeometry x="-0.7143" y="16" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
