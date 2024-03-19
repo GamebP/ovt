@@ -7,11 +7,11 @@ var
   c: Real;
 
   { Cementa daudzums, izlietots pirmaja darba diena (tonnas) }
-  primaDiena: Real;
+  pirmaDiena: Real;
 
-  { Pieauguma procentualais daudzums katra nakamaja darba dienâ }
+  { Pieauguma procentualais daudzums katra nakamaja darba dien� }
   procenti: Real;
-  decimalProcents: Real;
+	decimalProcents: Real;
 
   { Cik pilnam darba dienam pietika cementa }
   pilnasDienas: Integer;
@@ -26,7 +26,7 @@ var
   k: Integer;
 
 Label
-     Starts;
+	Starts;
 
 Begin
 Starts:
@@ -49,27 +49,27 @@ Starts:
       { Notira ekranu, lai atkartoti paraditu ievades jautajumu }
       ClrScr;
 
-      { Pâreja uz sakumu, lai atkartoti iegutu pareizu ievadi }
-      Goto Starts;
+      { Pareja uz sakumu, lai atkartoti iegutu pareizu ievadi }
+      Goto Starts	;
     end;
   until c > 0;
 
-  primaDiena := 2.3;
+  pirmaDiena := 2.3;
   pilnasDienas := 0;
   atlikusaisCements := c;
 
   repeat
     Randomize;
     procenti := 1 + Random(4);
-    decimalProcents := procenti / 100;
-    primaDiena := primaDiena * (1 + procenti / 100);
+		decimalProcents := procenti / 100;
+    pirmaDiena := pirmaDiena * (1 + procenti / 100);
 
-    if primaDiena <= atlikusaisCements then
+    if pirmaDiena <= atlikusaisCements then
     begin
-      atlikusaisCements := atlikusaisCements - primaDiena;
+      atlikusaisCements := atlikusaisCements - pirmaDiena;
       pilnasDienas := pilnasDienas + 1;
     end;
-  until primaDiena > atlikusaisCements;
+  until pirmaDiena > atlikusaisCements;
 
   WriteLn('Pietika cementa pilnam darba dienam: ', pilnasDienas);
   WriteLn('Atlikusais cementa daudzums nepilnajai darba dienai (tonnas): ', atlikusaisCements:0:2);
