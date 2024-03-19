@@ -9,9 +9,9 @@ var
   { Cementa daudzums, izlietots pirmaja darba diena (tonnas) }
   primaDiena: Real;
 
-  { Pieauguma procentualais daudzums katra nakamaja darba dienâ }
+  { Pieauguma procentualais daudzums katra nakamaja darba dienÃ¢ }
   procenti: Real;
-	decimalProcents: Real;
+  decimalProcents: Real;
 
   { Cik pilnam darba dienam pietika cementa }
   pilnasDienas: Integer;
@@ -49,7 +49,7 @@ Starts:
       { Notira ekranu, lai atkartoti paraditu ievades jautajumu }
       ClrScr;
 
-      { Pâreja uz sakumu, lai atkartoti iegutu pareizu ievadi }
+      { PÃ¢reja uz sakumu, lai atkartoti iegutu pareizu ievadi }
       Goto Starts	;
     end;
   until c > 0;
