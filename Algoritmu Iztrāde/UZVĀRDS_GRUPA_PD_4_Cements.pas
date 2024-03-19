@@ -26,7 +26,7 @@ var
   k: Integer;
 
 Label
-	Starts;
+     Starts;
 
 Begin
 Starts:
