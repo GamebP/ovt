@@ -50,7 +50,7 @@ Starts:
       ClrScr;
 
       { Pâreja uz sakumu, lai atkartoti iegutu pareizu ievadi }
-      Goto Starts	;
+      Goto Starts;
     end;
   until c > 0;
 
@@ -61,7 +61,7 @@ Starts:
   repeat
     Randomize;
     procenti := 1 + Random(4);
-		decimalProcents := procenti / 100;
+    decimalProcents := procenti / 100;
     primaDiena := primaDiena * (1 + procenti / 100);
 
     if primaDiena <= atlikusaisCements then
