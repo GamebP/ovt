@@ -1,0 +1,73 @@
+<mxfile host="Electron" modified="2024-01-29T08:03:44.177Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.2 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="WjqRKsSpq6dwXEBdy8Yy" version="22.0.2" type="device">
+  <diagram name="Page-1" id="19y7qQMcVR_7YLHB72S_">
+    <mxGraphModel dx="349" dy="596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EH4G-hXS7_joCys5I5TP-1" value="k - krāsas kods" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;labelPosition=center;align=center;" vertex="1" parent="1">
+          <mxGeometry x="364" y="60" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EH4G-hXS7_joCys5I5TP-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EH4G-hXS7_joCys5I5TP-2" target="EH4G-hXS7_joCys5I5TP-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EH4G-hXS7_joCys5I5TP-2" value="Sākums" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="364" y="190" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EH4G-hXS7_joCys5I5TP-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EH4G-hXS7_joCys5I5TP-3" target="EH4G-hXS7_joCys5I5TP-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EH4G-hXS7_joCys5I5TP-3" value="k = gadījuma skaitlis no 1 līdz 15" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="356" y="330" width="116" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EH4G-hXS7_joCys5I5TP-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="EH4G-hXS7_joCys5I5TP-1" target="EH4G-hXS7_joCys5I5TP-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EH4G-hXS7_joCys5I5TP-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EH4G-hXS7_joCys5I5TP-6" target="EH4G-hXS7_joCys5I5TP-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EH4G-hXS7_joCys5I5TP-6" value="Teksta krāsa maiņa uz &lt;b&gt;&lt;i&gt;k&lt;/i&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="356" y="450" width="116" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EH4G-hXS7_joCys5I5TP-7" value="Kursora novietošana ekrāna vidū" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="356" y="580" width="116" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EH4G-hXS7_joCys5I5TP-10" value="&quot;Ogres tehnikums&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="351" y="700" width="126" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EH4G-hXS7_joCys5I5TP-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="EH4G-hXS7_joCys5I5TP-7" target="EH4G-hXS7_joCys5I5TP-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EH4G-hXS7_joCys5I5TP-12" value="0,5 sekundes" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="364" y="820" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EH4G-hXS7_joCys5I5TP-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="EH4G-hXS7_joCys5I5TP-10" target="EH4G-hXS7_joCys5I5TP-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EH4G-hXS7_joCys5I5TP-17" value="Nē" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EH4G-hXS7_joCys5I5TP-14">
+          <mxGeometry x="-0.9922" y="-20" relative="1" as="geometry">
+            <mxPoint x="410" y="270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="230" y="610" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EH4G-hXS7_joCys5I5TP-18" value="Jā" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EH4G-hXS7_joCys5I5TP-14">
+          <mxGeometry x="-0.6694" y="16" relative="1" as="geometry">
+            <mxPoint x="414" y="1090" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EH4G-hXS7_joCys5I5TP-14" value="Nospiests &lt;br&gt;kāds &lt;br&gt;taustiņš" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="364" y="930" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="EH4G-hXS7_joCys5I5TP-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="EH4G-hXS7_joCys5I5TP-12" target="EH4G-hXS7_joCys5I5TP-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EH4G-hXS7_joCys5I5TP-19" value="Beigas" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="364" y="1090" width="100" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
