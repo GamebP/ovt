@@ -10,11 +10,11 @@ const
   MasivaGarums = 1000;
 
 var
-	{Masivs, kas glabâs veselus skaitlus}
+	{Masivs, kas glabas veselus skaitlus}
   m: array[1..1000] of integer;
 	{Mainigie, kas izmantoti ciklu un skaitosanas nolukos}
   i, dalasAr9, paraSkaitli: integer;
-	{Mainigais, kas saglabâs lietotaja izveli}
+	{Mainigais, kas saglabas lietotaja izveli}
   izvele: char;
 
 label
@@ -60,7 +60,7 @@ Starts:
         paraSkaitli := paraSkaitli + 1;
     end;
 		
-		{Parada kopskaitu paru skaitlus un skaitïus, kas dalas ar 9}
+		{Parada kopskaitu paru skaitlus un skaitlus, kas dalas ar 9}
     writeln('Kopejais para skaitlu skaits: ', paraSkaitli);
     writeln('Kopejais skaitlu skaits, kas dalas ar 9: ', dalasAr9);
 
