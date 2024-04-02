@@ -1,0 +1,178 @@
+<mxfile host="Electron" modified="2024-04-02T19:47:25.862Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.1.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="Ik2fMJL3pIa6Q-NPWIVO" version="23.1.5" type="device">
+  <diagram name="SkrienBurti" id="HjbvpZavWHpbGPEuquzM">
+    <mxGraphModel dx="989" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mEW_r_fJk4mrOSK-a_Jz-1" value="S - teksts&lt;br&gt;&quot;skrejošajai rindai&quot;&lt;br&gt;(garums 5 - 80 simboli)" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;labelPosition=center;align=center;" parent="1" vertex="1">
+          <mxGeometry x="513" y="50" width="144" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mEW_r_fJk4mrOSK-a_Jz-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="mEW_r_fJk4mrOSK-a_Jz-3" target="mEW_r_fJk4mrOSK-a_Jz-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mEW_r_fJk4mrOSK-a_Jz-3" value="Sākums" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="535" y="180" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mEW_r_fJk4mrOSK-a_Jz-4" value="S" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;" parent="1" vertex="1">
+          <mxGeometry x="535" y="310" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mEW_r_fJk4mrOSK-a_Jz-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="mEW_r_fJk4mrOSK-a_Jz-1" target="mEW_r_fJk4mrOSK-a_Jz-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mEW_r_fJk4mrOSK-a_Jz-13" value="Nē" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#007FFF;" parent="1" source="mEW_r_fJk4mrOSK-a_Jz-7" target="mEW_r_fJk4mrOSK-a_Jz-14" edge="1">
+          <mxGeometry x="-1" y="15" relative="1" as="geometry">
+            <mxPoint x="585" y="640" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mEW_r_fJk4mrOSK-a_Jz-39" value="Jā" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#007FFF;" parent="1" source="mEW_r_fJk4mrOSK-a_Jz-7" target="mEW_r_fJk4mrOSK-a_Jz-10" edge="1">
+          <mxGeometry x="-1" y="-15" relative="1" as="geometry">
+            <mxPoint x="-2" as="offset" />
+            <Array as="points">
+              <mxPoint x="320" y="505" />
+              <mxPoint x="320" y="425" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mEW_r_fJk4mrOSK-a_Jz-7" value="&lt;b&gt;S &lt;/b&gt;&lt;br&gt;1. Pirmā rakstzīme&lt;br&gt;ir atstarpe" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;strokeColor=#007FFF;" parent="1" vertex="1">
+          <mxGeometry x="527" y="450" width="115" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="mEW_r_fJk4mrOSK-a_Jz-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#007FFF;" parent="1" source="mEW_r_fJk4mrOSK-a_Jz-4" target="mEW_r_fJk4mrOSK-a_Jz-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mEW_r_fJk4mrOSK-a_Jz-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#007FFF;" parent="1" source="mEW_r_fJk4mrOSK-a_Jz-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="420" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="450" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mEW_r_fJk4mrOSK-a_Jz-10" value="&lt;b&gt;S &lt;/b&gt;- Pirmās rakstzīmes dzēšana" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#007FFF;" parent="1" vertex="1">
+          <mxGeometry x="410" y="400" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mEW_r_fJk4mrOSK-a_Jz-18" value="Nē" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#007FFF;" parent="1" source="mEW_r_fJk4mrOSK-a_Jz-14" target="mEW_r_fJk4mrOSK-a_Jz-19" edge="1">
+          <mxGeometry x="-1" y="16" relative="1" as="geometry">
+            <mxPoint x="584.5" y="810" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mEW_r_fJk4mrOSK-a_Jz-41" value="Jā" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#007FFF;" parent="1" source="mEW_r_fJk4mrOSK-a_Jz-14" target="mEW_r_fJk4mrOSK-a_Jz-15" edge="1">
+          <mxGeometry x="-1" y="-15" relative="1" as="geometry">
+            <mxPoint x="-2" as="offset" />
+            <Array as="points">
+              <mxPoint x="320" y="675" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mEW_r_fJk4mrOSK-a_Jz-14" value="&lt;b&gt;S &lt;/b&gt;&lt;br&gt;Pēdējā rakstzīme&lt;br&gt;ir atstarpe" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;strokeColor=#007FFF;" parent="1" vertex="1">
+          <mxGeometry x="527" y="620" width="115" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="M3MwWFcB5tjpOpC9ExdE-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#007FFF;" edge="1" parent="1" source="mEW_r_fJk4mrOSK-a_Jz-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="570" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="477" y="570" />
+              <mxPoint x="581" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mEW_r_fJk4mrOSK-a_Jz-15" value="&lt;b&gt;S &lt;/b&gt;- Pēdējās rakstzīmes dzēšana" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#007FFF;" parent="1" vertex="1">
+          <mxGeometry x="270" y="600" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mEW_r_fJk4mrOSK-a_Jz-21" value="Jā" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="mEW_r_fJk4mrOSK-a_Jz-19" target="mEW_r_fJk4mrOSK-a_Jz-20" edge="1">
+          <mxGeometry x="-0.8868" y="15" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mEW_r_fJk4mrOSK-a_Jz-19" value="5 &amp;lt;=&lt;br&gt;Sgarums &lt;br&gt;&amp;lt;= 80" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="535" y="777" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="mEW_r_fJk4mrOSK-a_Jz-20" value="&lt;b&gt;S&lt;/b&gt;&amp;nbsp;= S + &quot; &quot;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#0f9df5;" parent="1" vertex="1">
+          <mxGeometry x="535" y="920" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mEW_r_fJk4mrOSK-a_Jz-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#ff0a0a;" parent="1" source="mEW_r_fJk4mrOSK-a_Jz-22" target="mEW_r_fJk4mrOSK-a_Jz-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mEW_r_fJk4mrOSK-a_Jz-22" value="S" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;strokeColor=#ff0a0a;" parent="1" vertex="1">
+          <mxGeometry x="535" y="1020" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mEW_r_fJk4mrOSK-a_Jz-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#ff0a0a;" parent="1" source="mEW_r_fJk4mrOSK-a_Jz-23" target="mEW_r_fJk4mrOSK-a_Jz-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mEW_r_fJk4mrOSK-a_Jz-23" value="Pirmā S burta&lt;br&gt;pārcelšana uz&lt;br&gt;beigām" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#ff0a0a;" parent="1" vertex="1">
+          <mxGeometry x="535" y="1130" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mEW_r_fJk4mrOSK-a_Jz-24" value="0,3s" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#ff0a0a;" parent="1" vertex="1">
+          <mxGeometry x="535" y="1230" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mEW_r_fJk4mrOSK-a_Jz-30" value="Nē" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#ff0a0a;" parent="1" source="mEW_r_fJk4mrOSK-a_Jz-25" edge="1">
+          <mxGeometry x="-0.9672" y="-10" relative="1" as="geometry">
+            <mxPoint x="590" y="1000" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="1360" />
+              <mxPoint x="480" y="1000" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mEW_r_fJk4mrOSK-a_Jz-25" value="Nospiests kāds&lt;br&gt;taustiņš" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;strokeColor=#ff0a0a;" parent="1" vertex="1">
+          <mxGeometry x="527" y="1310" width="115" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="mEW_r_fJk4mrOSK-a_Jz-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#ff0a0a;" parent="1" source="mEW_r_fJk4mrOSK-a_Jz-24" target="mEW_r_fJk4mrOSK-a_Jz-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mEW_r_fJk4mrOSK-a_Jz-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="mEW_r_fJk4mrOSK-a_Jz-20" target="mEW_r_fJk4mrOSK-a_Jz-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mEW_r_fJk4mrOSK-a_Jz-38" value="Jā" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mEW_r_fJk4mrOSK-a_Jz-31" edge="1">
+          <mxGeometry x="-0.9938" y="10" relative="1" as="geometry">
+            <mxPoint x="580" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="170" y="1500" />
+              <mxPoint x="170" y="280" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mEW_r_fJk4mrOSK-a_Jz-31" value="Atkārtot" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="535" y="1450" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="mEW_r_fJk4mrOSK-a_Jz-32" value="Jā" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#ff0000;" parent="1" source="mEW_r_fJk4mrOSK-a_Jz-25" target="mEW_r_fJk4mrOSK-a_Jz-31" edge="1">
+          <mxGeometry x="-1" y="-15" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mEW_r_fJk4mrOSK-a_Jz-33" value="Beigas" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="690" y="1470" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mEW_r_fJk4mrOSK-a_Jz-34" value="Nē" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="mEW_r_fJk4mrOSK-a_Jz-31" target="mEW_r_fJk4mrOSK-a_Jz-33" edge="1">
+          <mxGeometry x="-1" y="-15" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="670" y="1460" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="690" y="1500" />
+              <mxPoint x="690" y="1500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mEW_r_fJk4mrOSK-a_Jz-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mEW_r_fJk4mrOSK-a_Jz-35" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="1430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="755" y="1430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mEW_r_fJk4mrOSK-a_Jz-35" value="&quot;Teksta garums neatbilst prasībām!&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="690" y="1195" width="130" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="mEW_r_fJk4mrOSK-a_Jz-36" value="Nē" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="mEW_r_fJk4mrOSK-a_Jz-19" target="mEW_r_fJk4mrOSK-a_Jz-35" edge="1">
+          <mxGeometry x="-0.9795" y="17" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
