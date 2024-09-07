@@ -1,5 +1,5 @@
 # Kā vieglāk piekļūt pie šī avota?
-[https://ej.uz/ovttop (Github)](https://ej.uz/ovttop)
+[https://ej.uz/ovttop (Github)](https://ej.uz/ovttop)  
 [https://skeaty.lol](https://skeaty.lol)
 
 # Ogres Valsts Tehnikums (OVT.lv)
