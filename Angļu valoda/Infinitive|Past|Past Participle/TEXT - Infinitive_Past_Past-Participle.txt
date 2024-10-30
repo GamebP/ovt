@@ -1,0 +1,54 @@
+|               Teikums                |  Infinitive  |    Past    |  Past Participle  |
+| ------------------------------------ | ------------ | ---------- | ----------------- |
+|          Piederēt (man ir)           |     have     |    had     |        had        |
+|               Saderēt                |     bet      |    bet     |        bet        |
+|                 Ēst                  |     eat      |    ate     |       eaten       |
+|   Stūrēt, vadīt transportlīdzekli    |    drive     |   drove    |       driven      |
+|              Dot, iedot              |     give     |    gave    |       given       |
+|                 Rakt                 |     dig      |    dug     |        dug        |
+|                 Būt                  |      be      |  was were  |        been       |
+|             Just, sajust             |     feel     |    felt    |        felt       |
+|               Dzirdēt                |     hear     |   heard    |       heard       |
+|       Vadīt (piem. kolektīvu)        |     lead     |    led     |        led        |
+|          Ievainot, sāpināt           |     hurt     |    hurt    |        hurt       |
+|              Iemācīties              |    learn     |   learnt   |       learnt      |
+|                 Pūst                 |     blow     |    blew    |       blown       |
+|                Zīmēt                 |     draw     |    drew    |       drawn       |
+|                Lauzt                 |    break     |   broke    |       broken      |
+|             Likt likmes              |     bid      |    bid     |        bid        |
+|                Sasalt                |    freeze    |   froze    |       frozen      |
+|               Cīnīties               |    fight     |   fought   |       fought      |
+|                Piedot                |   forgive    |  forgave   |      forgiven     |
+|               Aizmirst               |    forget    |   forgot   |     forgotten     |
+|         Glabāt, paturēt sev          |     keep     |    kept    |        kept       |
+|             Celt, būvēt              |    build     |   built    |       built       |
+|                 Ķert                 |    catch     |   caught   |       caught      |
+|  Izmaksāt (biļetes izmaksā 20 eiro)  |     cost     |    cost    |        cost       |
+|                Dabūt                 |     get      |    got     |        got        |
+|                 Kļūt                 |    become    |   became   |       become      |
+|       Griezt (ar nazi, šķērēm)       |     cut      |    cut     |        cut        |
+|             Siet, sasiet             |     bind     |   bound    |       bound       |
+|     Izdalīt (kārtis), tirgoties      |     deal     |   dealt    |       dealt       |
+|              Izvēlēties              |    choose    |   chose    |       chosen      |
+|                Atnest                |    bring     |  brought   |      brought      |
+|                Sapņot                |    dream     |   dreamt   |       dreamt      |
+|                Darīt                 |      do      |    did     |        done       |
+|       Liekt, saliekt, noliekt        |     bend     |    bent    |        bent       |
+|              Pamosties               |    awake     |   awoke    |       awoken      |
+|                Iesist                |     hit      |    hit     |        hit        |
+|         Iet, aiziet, doties          |      go      |    went    |        gone       |
+|                Krist                 |     fall     |    fell    |       fallen      |
+|           Karāties, pakārt           |     hang     |    hung    |        hung       |
+|                Pirkt                 |     buy      |   bought   |       bought      |
+|                Asiņot                |    bleed     |    bled    |        bled       |
+|                 Kost                 |     bite     |    bit     |       bitten      |
+|        Uzklāt (piem., galdu)         |     lay      |    laid    |        laid       |
+|      Turēt (piem., rokā, gaisā)      |     hold     |    held    |        held       |
+|               Paslēpt                |     hide     |    hid     |       hidden      |
+|                 Augt                 |     grow     |    grew    |       grown       |
+|                Dzert                 |    drink     |   drank    |       drunk       |
+|                Lidot                 |     fly      |    flew    |       flown       |
+|                Atrast                |     find     |   found    |       found       |
+|                 Sākt                 |    begin     |   began    |       begun       |
+|                 Sist                 |     beat     |    beat    |       beaten      |
+| ------------------------------------ | ------------ | ---------- | ----------------- |
