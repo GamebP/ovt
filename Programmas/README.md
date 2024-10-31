@@ -1,0 +1,1 @@
+**WOL-SS.exe** ir programma, kas skenē lokālo tīklu, identificējot aktīvos hostus, kuri reaģē uz ping pieprasījumiem. Pēc tam tā mēģina attālināti izslēgt šos hostus un beigās izslēdz arī savu mašīnu, lai netiktu pieķert-s/a. Šī programma ir lieliska trollošanas rīku daļa, lai pārsteigtu draugus vai skolotājus un izvairītos no papildus darbiem!
