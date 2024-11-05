@@ -51,4 +51,5 @@
 |                Atrast                |     find     |   found    |       found       |
 |                 Sākt                 |    begin     |   began    |       begun       |
 |                 Sist                 |     beat     |    beat    |       beaten      |
+|                Zināt                 |     know     |    knew    |       known       |
 | ------------------------------------ | ------------ | ---------- | ----------------- |
